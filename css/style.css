@@ -1,0 +1,97 @@
+html, body {
+  height: 100%;
+  min-height: 100%;
+}
+
+body {
+  background:url(../images/Antigua_Guatemala_1141.jpg) center ;
+  background-size: 1900px, 2900px;
+  background-attachment: fixed;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 100%;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 60%;
+  padding-bottom: 40px;
+}
+
+#content {
+  padding: 20px;
+  background: rgba(255,255,255,.85);
+}
+
+h1 {
+  font-family: sans-serif;
+  color: #000;
+}
+
+h2 {
+ font-family: serif;
+ color: #000;
+}
+
+h1 {
+  text-align: center;
+  font-size: 3.5em;
+  letter-spacing: .05em;
+  margin-bottom: 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2.5em;
+  margin-top: .5em;
+}
+
+h3 {
+  text-align: center;
+  font-size: 1.75em;
+  margin-top: .5em;
+  color: #000;
+}
+
+h4 {
+  text-align: center;
+  font-size: 1.25em;
+  margin-top: .5em;
+  color: #000;
+}
+
+img {
+
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+
+table, th, td {
+
+  border: 1px #000;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+ol {
+
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+p {
+  text-align: center;
+  font-family: 'Helvetica', serif;
+  font-size: 1.25em;
+  color: #000;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
